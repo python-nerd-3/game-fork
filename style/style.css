@@ -3,7 +3,8 @@ p {
 }
 body {
   font-family: Verdana, sans-serif;
-  background-color: AliceBlue;
+  background: rgb(240,248,255);
+  background: linear-gradient(180deg, rgba(240,248,255,1) 0%, rgba(162,186,218,1) 100%);
   margin: 0px;
 }
 #inv,
