@@ -12,7 +12,7 @@ body {
 #interface,
 #actions,
 #map {
-  border: 2px solid lightskyblue;
+  border: 5px solid lightskyblue;
 }
 #title {
   text-align: center;
